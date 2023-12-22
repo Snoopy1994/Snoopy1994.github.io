@@ -645,6 +645,10 @@ figure.snip1321.hover:after {
     padding: 80px 45px 50px 45px;
 } */
 
+object {
+    width: 95%;
+    height: 700px;
+}
 
 /* Contact Me */
 
