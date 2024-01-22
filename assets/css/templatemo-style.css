@@ -389,8 +389,8 @@ button:hover {
 }
 
 .rule-footer {
-    height: 1px;
-    opacity: .4;
+    height: 2px;
+    opacity: .2;
     background-color: #e3e2e18b;
     margin-bottom: 1.5em;
     margin-top: 1.5em;
